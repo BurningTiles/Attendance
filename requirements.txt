@@ -1,0 +1,6 @@
+cmake
+dlib
+opencv-python
+numpy
+face-recognition
+firebase-admin
